@@ -1,1 +1,2 @@
-Esempio di motore di ricerca per posizioni lavorative
+Motore di ricerca per posizioni lavorative
+Job search engine
